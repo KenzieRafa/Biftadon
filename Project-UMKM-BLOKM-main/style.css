@@ -1408,6 +1408,10 @@ img {
         margin-top: 20px;
     }
 
+    .logo img {
+        height: 50px;
+    }
+
     /* Hero Section */
     .hero {
         padding: 40px 0 60px;
@@ -1597,7 +1601,7 @@ img {
 /* Mobile Small (iPhone SE, older phones) */
 @media (max-width: 480px) {
     .container {
-        padding: 0 12px;
+        padding: 0 20px;
     }
 
     /* Navbar */
@@ -1606,7 +1610,7 @@ img {
     }
 
     .logo img {
-        height: 100px;
+        height: 50px;
     }
 
     .nav-menu {
