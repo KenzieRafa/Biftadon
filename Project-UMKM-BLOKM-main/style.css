@@ -1419,6 +1419,10 @@ img {
         visibility: visible;
     }
 
+    .testimonial-title {
+        font-size: 28px;
+    }
+
     .nav-menu a {
         font-size: 18px;
     }
