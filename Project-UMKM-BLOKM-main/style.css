@@ -1125,8 +1125,8 @@ img {
     padding: 10px;
     z-index: 1002;
     order: 1;
-    margin-right: -100 px;
-    margin-left: 0 px;
+    margin-right: -100px;
+    margin-left: 0px;
     /* Geser lebih ke kiri */
 }
 
