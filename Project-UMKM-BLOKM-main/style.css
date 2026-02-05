@@ -1355,6 +1355,7 @@ img {
     .logo {
         order: 2;
         flex-shrink: 0;
+        margin-left: 100px;
     }
 
     .menu-toggle {
