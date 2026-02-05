@@ -1423,6 +1423,11 @@ img {
         font-size: 28px;
     }
 
+    .newsletter-title,
+    .location-map h3 {
+        font-size: 28px !important;
+    }
+
     .nav-menu a {
         font-size: 18px;
     }
